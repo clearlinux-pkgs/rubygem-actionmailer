@@ -1,0 +1,3 @@
+# rubygem-rails requires version (= 4.2.3)
+# check: https://rubygems.org/gems/rails
+watchurl=https://rubygems.org/gems/rails/(4.2.3)
