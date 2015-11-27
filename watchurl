@@ -1,3 +1,4 @@
-# rubygem-rails requires version (= 4.2.3)
-# check: https://rubygems.org/gems/rails
-watchurl=https://rubygems.org/gems/rails/(4.2.3)
+# File auto-generated with 'Watchfile generator'
+# 2015-11-27 22:32:26.824174
+# {'=4.2.3'}
+https://rubygems.org/gems/actionmailer/versions/(4\.2\.3)
