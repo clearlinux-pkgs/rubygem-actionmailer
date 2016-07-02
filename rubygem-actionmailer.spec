@@ -4,7 +4,7 @@
 #
 Name     : rubygem-actionmailer
 Version  : 5.0.0
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/actionmailer-5.0.0.gem
 Source0  : https://rubygems.org/downloads/actionmailer-5.0.0.gem
 Summary  : No detailed summary available
